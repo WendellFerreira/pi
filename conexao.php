@@ -1,7 +1,6 @@
 <?php
 
 $host = 'localhost';
-$db = 'wendell';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
